@@ -4,7 +4,7 @@ Welcome to the To-Do List Web Application! This is a simple to-do list app built
 
 ## Preview
 
-You can check out the live preview of this project [here](#https://ujjs.github.io/Todo-List/).
+You can check out the live preview of this project [here](https://ujjs.github.io/Todo-List/).
 
 ## Getting Started
 
