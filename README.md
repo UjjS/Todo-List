@@ -53,4 +53,4 @@ If you'd like to contribute to this project, please fork the repository, make yo
 
 - Special thanks to the creators of the fonts used in this project: [Font Family Name](Link to Font)
 
-Enjoy using the To-Do List Web Application! If you encounter any issues or have suggestions for improvements, feel free to [submit an issue](Issue Tracker)
+Enjoy using the To-Do List Web Application! If you encounter any issues or have suggestions for improvements, feel free to [submit an issue]((https://github.com/UjjS/Todo-List/blob/b630a712947087e25e16d1f4e399ab4e295f58da/Issue%20Tracker)https://github.com/UjjS/Todo-List/blob/b630a712947087e25e16d1f4e399ab4e295f58da/Issue%20Tracker)
